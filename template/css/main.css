@@ -2663,8 +2663,12 @@ h4{
 	text-align: center;
 }
 
-p.pull-left{
+.my-works{
 	cursor: pointer;
+}
+
+.my-works:hover{
+    color: #FE980F;
 }
 
 .my_works {
