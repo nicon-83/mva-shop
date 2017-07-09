@@ -6,13 +6,13 @@
 	<meta name="description" content="internet-shop">
 	<meta name="author" content="Vladimir Makedonov">
 	<title>mva-shop</title>
-	<link href="../../template/css/bootstrap.min.css" rel="stylesheet">
-	<link href="../../template/css/font-awesome.min.css" rel="stylesheet">
-	<link href="../../template/css/prettyPhoto.css" rel="stylesheet">
-	<link href="../../template/css/price-range.css" rel="stylesheet">
-	<link href="../../template/css/animate.css" rel="stylesheet">
-	<link href="../../template/css/main.css" rel="stylesheet">
-	<link href="../../template/css/responsive.css" rel="stylesheet">
+	<link href="/template/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/template/css/font-awesome.min.css" rel="stylesheet">
+	<link href="/template/css/prettyPhoto.css" rel="stylesheet">
+	<link href="/template/css/price-range.css" rel="stylesheet">
+	<link href="/template/css/animate.css" rel="stylesheet">
+	<link href="/template/css/main.css" rel="stylesheet">
+	<link href="/template/css/responsive.css" rel="stylesheet">
 	<!--[if lt IE 9]>
 	<script src="../../template/js/html5shiv.js"></script>
 	<script src="../../template/js/respond.min.js"></script>

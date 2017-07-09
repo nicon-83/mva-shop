@@ -6,42 +6,42 @@
 	<meta name="description" content="internet-shop">
 	<meta name="author" content="Vladimir Makedonov">
 	<title>mva-shop (admin)</title>
-	<link href="../../template/css/bootstrap.min.css" rel="stylesheet">
-	<link href="../../template/css/font-awesome.min.css" rel="stylesheet">
-	<link href="../../template/css/prettyPhoto.css" rel="stylesheet">
-	<link href="../../template/css/price-range.css" rel="stylesheet">
-	<link href="../../template/css/animate.css" rel="stylesheet">
-	<link href="../../template/css/main.css" rel="stylesheet">
-	<link href="../../template/css/responsive.css" rel="stylesheet">
-		<!--[if lt IE 9]>
-		<script src="js/html5shiv.js"></script>
-		<script src="js/respond.min.js"></script>
-		<![endif]-->
-	</head><!--/head-->
+	<link href="/template/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/template/css/font-awesome.min.css" rel="stylesheet">
+	<link href="/template/css/prettyPhoto.css" rel="stylesheet">
+	<link href="/template/css/price-range.css" rel="stylesheet">
+	<link href="/template/css/animate.css" rel="stylesheet">
+	<link href="/template/css/main.css" rel="stylesheet">
+	<link href="/template/css/responsive.css" rel="stylesheet">
+	<!--[if lt IE 9]>
+	<script src="../../template/js/html5shiv.js"></script>
+	<script src="../../template/js/respond.min.js"></script>
+	<![endif]-->
+</head><!--/head-->
 
-	<body>
-		<div class="wrapper">
-			
-			<div class="page-wrapper">
-
-				<header id="header"><!--header-->
-					<div class="header_top"><!--header_top-->
-						<div class="container">
-							<div class="row">
-								<div class="col-sm-6">
-									<div class="contactinfo">
-										<h5>
-											<a href="/admin"><i class="fa fa-edit"></i> Админ панель</a>
-										</h5>
-									</div>
-								</div>
-								<div class="col-sm-6">
-									<div class="social-icons pull-right">
-										<ul class="nav navbar-nav">
-											<li><a href="/"><i class="fa fa-sign-out"></i>На сайт</a></li>
-										</ul>
-									</div>
-								</div>
+<body>
+<div class="wrapper">
+	
+	<div class="page-wrapper">
+		
+		<header id="header"><!--header-->
+			<div class="header_top"><!--header_top-->
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-6">
+							<div class="contactinfo">
+								<h5>
+									<a href="/admin"><i class="fa fa-edit"></i> Админ панель</a>
+								</h5>
 							</div>
 						</div>
-					</div><!--/header_top-->
+						<div class="col-sm-6">
+							<div class="social-icons pull-right">
+								<ul class="nav navbar-nav">
+									<li><a href="/"><i class="fa fa-sign-out"></i>На сайт</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><!--/header_top-->

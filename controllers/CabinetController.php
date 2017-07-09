@@ -105,7 +105,7 @@ class CabinetController
 		$productsIds = array_keys($productsQuantity);
 
 		// Получаем список товаров в заказе
-		$products = Product::getProdustsByIds($productsIds);
+		$products = Product::getProductsByIds($productsIds);
 
 		// Подключаем вид
 		require_once(ROOT . '/views/cabinet/view.php');
